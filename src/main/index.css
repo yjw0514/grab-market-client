@@ -8,14 +8,6 @@ body {
   padding: 0;
 }
 
-/* Header CSS */
-#header {
-  height: 64px;
-  display: flex;
-  justify-content: center;
-  border-bottom: 1px solid gray;
-}
-
 #header-area {
   width: 1024px;
   height: 100%;
@@ -26,14 +18,6 @@ body {
 #header-area > img {
   width: 128px;
   height: 36px;
-}
-
-/* Body CSS*/
-#body {
-  width: 1024px;
-  height: 100vh;
-  margin: 0 auto;
-  margin-bottom: 24px;
 }
 
 #banner {
@@ -100,10 +84,4 @@ body {
 .product-link {
   color: inherit;
   text-decoration: none;
-}
-
-/* Footer CSS*/
-#footer {
-  height: 200px;
-  background-color: rgb(230, 230, 230);
 }
